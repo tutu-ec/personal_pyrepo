@@ -14,10 +14,10 @@ git status (shows the status of your git repo)
 git add . (add all the changes. unstaged changes --> staged changes)
 
 git commit -m "<commit_message>"
-git config user.name "someone"
-git config user.email "someone@someplace.com"
+git config user.name "someone" (show who change it)
+git config user.email "someone@someplace.com" (show email of person who change it)
 git add .
 git commit -m "some init msg"
 git status
-git push (login git hub account)
+git push (push to github)
 
