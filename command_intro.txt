@@ -1,0 +1,20 @@
+mkdir
+ls
+ls -la
+cd
+cd -- (go back to the previous floder)
+pwd
+clear
+cd ~ (go to home directory --> /c/Users/<username> in Windows)
+
+cat <file_name> (to see what is inside that file from terminal) 
+nano<file_name.extension> (to create/edit a file of any type and add/edit content)
+
+git status (shows the status of your git repo)
+git add . (add all the changes. unstaged changes --> staged changes)
+
+git commit -m "<commit_message>"
+git config user.name "someone"
+git config user.email "someone@someplace.com"
+git add .
+git commit -m "some init msg"

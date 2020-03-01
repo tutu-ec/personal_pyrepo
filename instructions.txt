@@ -1,0 +1,10 @@
+cd ~ (go to home directory)
+mkdir github_repos (create a new folder named github_repos)
+cd github_repos/ (go to that gihub_repos)
+git clone <https_path_to_github_repo> (clone the github repo)
+cd <name_of_repo> (go to that repository)
+
+if you did previous steps correctly:
+
+ls -la (making sure that .git folder exist)
+git status (find the status of our repo)
